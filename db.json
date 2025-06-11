@@ -13,7 +13,7 @@
             "application": {
                 "id": 100,
                 "name": "Research Approval System",
-                "irbNumber": [35000, 46890],
+                "irbNumber": 35000,
                 "isActive": true,
                 "description": "System for submitting and tracking research proposals.",
                 "principalInvestigator": "Dr. Sarah Johnson",
@@ -32,7 +32,7 @@
             "application": {
                 "id": 100,
                 "name": "Research Approval System",
-                "irbNumber": [35000, 46890],
+                "irbNumber": 35000,
                 "isActive": true,
                 "description": "System for submitting and tracking research proposals.",
                 "principalInvestigator": "Dr. Sarah Johnson",
@@ -51,7 +51,7 @@
             "application": {
                 "id": 100,
                 "name": "Research Approval System",
-                "irbNumber": [35000, 46890],
+                "irbNumber": 35000,
                 "isActive": true,
                 "description": "System for submitting and tracking research proposals.",
                 "principalInvestigator": "Dr. Sarah Johnson",
@@ -70,7 +70,7 @@
             "application": {
                 "id": 100,
                 "name": "Research Approval System",
-                "irbNumber": [35000, 46890], 
+                "irbNumber": 35000, 
                 "isActive": true,
                 "description": "System for submitting and tracking research proposals.",
                 "principalInvestigator": "Dr. Sarah Johnson",
@@ -89,7 +89,7 @@
             "application": {
                 "id": 101,
                 "name": "Lab Resource Study Portal",
-                "irbNumber": [17555],
+                "irbNumber": 17555,
                 "isActive": true,
                 "description": "Internal lab usage management system.",
                 "principalInvestigator": "Dr. Michael Williams",
@@ -108,7 +108,7 @@
             "application": {
                 "id": 101,
                 "name": "Lab Resource Study Portal",
-                "irbNumber": [17555],
+                "irbNumber": 17555,
                 "isActive": true,
                 "description": "Internal lab usage management system.",
                 "principalInvestigator": "Dr. Michael Williams",
@@ -127,7 +127,7 @@
             "application": {
                 "id": 101,
                 "name": "Lab Resource Study Portal",
-                "irbNumber": [17555],
+                "irbNumber": 17555,
                 "isActive": true,
                 "description": "Internal lab usage management system.",
                 "principalInvestigator": "Dr. Michael Williams",
@@ -146,7 +146,7 @@
             "application": {
                 "id": 102,
                 "name": "Grant Management System",
-                "irbNumber": [29518], 
+                "irbNumber": 29518, 
                 "isActive": true,
                 "description": "System for managing research grants.",
                 "principalInvestigator": "Dr. Robert Brown",
@@ -165,7 +165,7 @@
             "application": {
                 "id": 102,
                 "name": "Grant Management System",
-                "irbNumber": [29518], 
+                "irbNumber": 29518, 
                 "isActive": false,
                 "description": "System for managing research grants.",
                 "principalInvestigator": "Dr. Robert Brown",
@@ -184,7 +184,7 @@
             "application": {
                 "id": 102,
                 "name": "Grant Management System",
-                "irbNumber": [29518], 
+                "irbNumber": 29518, 
                 "isActive": false,
                 "description": "System for managing research grants.",
                 "principalInvestigator": "Dr. Robert Brown",
@@ -203,7 +203,7 @@
             "application": {
                 "id": 103,
                 "name": "Compliance Tracking System",
-                "irbNumber": [13500],
+                "irbNumber": 13500,
                 "isActive": true,
                 "description": "System for tracking compliance with regulations.",
                 "principalInvestigator": "Dr. Emily Carter",
@@ -222,7 +222,7 @@
             "application": {
                 "id": 103,
                 "name": "Compliance Tracking System",
-                "irbNumber": [13500],
+                "irbNumber": 13500,
                 "isActive": true,
                 "description": "System for tracking compliance with regulations.",
                 "principalInvestigator": "Dr. Emily Carter",
@@ -241,7 +241,7 @@
             "application": {
                 "id": 103,
                 "name": "Compliance Tracking System",
-                "irbNumber": [13500],
+                "irbNumber": 13500,
                 "isActive": true,
                 "description": "System for tracking compliance with regulations.",
                 "principalInvestigator": "Dr. Emily Carter",
@@ -260,7 +260,7 @@
             "application": {
                 "id": 103,
                 "name": "Compliance Tracking System",
-                "irbNumber": [13500],
+                "irbNumber": 13500,
                 "isActive": true,
                 "description": "System for tracking compliance with regulations.",
                 "principalInvestigator": "Dr. Emily Carter",
